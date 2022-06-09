@@ -6,7 +6,7 @@ Loot = {
     {'phone', math.random(1,2)},
     {'xs-condom', 1},
     {'weed_ak47', math.random(1,13)},
-    {'kurkakola', math.random(1,3)},
+    {'cocacola', math.random(1,3)},
 }
 
 RegisterServerEvent('qb-trashsearch:server:startDumpsterTimer')
